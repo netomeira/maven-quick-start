@@ -7,4 +7,5 @@
   <groupId>clinic.programmming</groupId>
   <artifactId>maven-quick-start</artifactId>
   <version>1.0</version>
+  <packaging>jar</packaging>
 </project>
